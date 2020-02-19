@@ -1,4 +1,5 @@
 # supersimpletask
+## task manager app still in beta version.
 
 A new Flutter project.
 
